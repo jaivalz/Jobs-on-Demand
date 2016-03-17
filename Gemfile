@@ -54,3 +54,7 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 
 # haml
 gem 'haml', '~> 4.0.5'
+
+group :development do
+  gem "better_errors"
+end
